@@ -1,0 +1,92 @@
+[
+  {
+    "foreground": "ink",
+    "background": "paper",
+    "ratio": 14.65,
+    "normalTextAA": true
+  },
+  {
+    "foreground": "ink",
+    "background": "white",
+    "ratio": 15.42,
+    "normalTextAA": true
+  },
+  {
+    "foreground": "ink",
+    "background": "orange",
+    "ratio": 6.33,
+    "normalTextAA": true
+  },
+  {
+    "foreground": "ink",
+    "background": "pink",
+    "ratio": 10.2,
+    "normalTextAA": true
+  },
+  {
+    "foreground": "ink",
+    "background": "yellow",
+    "ratio": 9.79,
+    "normalTextAA": true
+  },
+  {
+    "foreground": "ink",
+    "background": "olive",
+    "ratio": 8.1,
+    "normalTextAA": true
+  },
+  {
+    "foreground": "ink",
+    "background": "lavender",
+    "ratio": 8.43,
+    "normalTextAA": true
+  },
+  {
+    "foreground": "ink",
+    "background": "blue",
+    "ratio": 8.97,
+    "normalTextAA": true
+  },
+  {
+    "foreground": "muted",
+    "background": "paper",
+    "ratio": 5.92,
+    "normalTextAA": true
+  },
+  {
+    "foreground": "muted",
+    "background": "white",
+    "ratio": 6.24,
+    "normalTextAA": true
+  },
+  {
+    "foreground": "white",
+    "background": "ink",
+    "ratio": 15.42,
+    "normalTextAA": true
+  },
+  {
+    "foreground": "white",
+    "background": "success",
+    "ratio": 7.09,
+    "normalTextAA": true
+  },
+  {
+    "foreground": "white",
+    "background": "warning",
+    "ratio": 6.88,
+    "normalTextAA": true
+  },
+  {
+    "foreground": "white",
+    "background": "danger",
+    "ratio": 6.84,
+    "normalTextAA": true
+  },
+  {
+    "foreground": "white",
+    "background": "info",
+    "ratio": 7.17,
+    "normalTextAA": true
+  }
+]
