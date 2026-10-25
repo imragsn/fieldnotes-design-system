@@ -1,0 +1,99 @@
+{
+  "system": "fieldnotes",
+  "retrievedOrAdapted": "2026-10-25",
+  "iconSource": "https://github.com/lucide-icons/lucide",
+  "fontSource": "https://github.com/google/fonts",
+  "adaptation": "See icon-registry.json and THIRD-PARTY-NOTICES.md. Original typography/geometry retained;new icon presentation adapted per system.",
+  "files": [
+    {
+      "path": "assets/fonts/Manrope.ttf",
+      "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6",
+      "bytes": 164700
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+      "bytes": 4387
+    },
+    {
+      "path": "assets/icons/arrow-left-right.svg",
+      "sha256": "d7317f7d976fd333a05c4884a3bcf5c34bcb7ead34a95be3d4abfd7ae21fc9ab",
+      "bytes": 332
+    },
+    {
+      "path": "assets/icons/calendar-days.svg",
+      "sha256": "4135ae0581d56eeb543c30ee3409bb712d585e9ce2e8239f8c51edc701e285a8",
+      "bytes": 508
+    },
+    {
+      "path": "assets/icons/chart-column.svg",
+      "sha256": "a0f4692c8244b5303b4396884efce5776e3e8da1b299e0fb2aa912fdf98629ca",
+      "bytes": 339
+    },
+    {
+      "path": "assets/icons/circle-check.svg",
+      "sha256": "03a8ef3462e2baeab503c8faef13487c59eb7ecb88e3d28afffc3ee29ea5fac4",
+      "bytes": 295
+    },
+    {
+      "path": "assets/icons/clock.svg",
+      "sha256": "ecc9d6c732619b393ad765dac936ef92af759adaabff1acf283feae45b38834f",
+      "bytes": 288
+    },
+    {
+      "path": "assets/icons/file-text.svg",
+      "sha256": "43060efb9254834ea972f33ba7d7a00cd423946f43e7ef86a27567ae0b3a1409",
+      "bytes": 464
+    },
+    {
+      "path": "assets/icons/info.svg",
+      "sha256": "a3cfea9bba76c164bc4186ff63a1f94e209db8739d0f053331220028a0333f26",
+      "bytes": 312
+    },
+    {
+      "path": "assets/icons/LICENSE.txt",
+      "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57",
+      "bytes": 3208
+    },
+    {
+      "path": "assets/icons/map-pin.svg",
+      "sha256": "3dbaa6d7e559708cae21c723213d863aae6c645d646c6d96052e71e79f6a3a45",
+      "bytes": 376
+    },
+    {
+      "path": "assets/icons/message-circle.svg",
+      "sha256": "68f165f5fec67499bfd73cab32cc015bab5bc33fc23b0765b265c9201ede0d6f",
+      "bytes": 363
+    },
+    {
+      "path": "assets/icons/route.svg",
+      "sha256": "eced1514c3e5e15eeda0ff7b5fc5d1a42540d2204f5e822267ac6ed69020f6d1",
+      "bytes": 362
+    },
+    {
+      "path": "assets/icons/search.svg",
+      "sha256": "ceab54fd6052ab3906f9243d804a41e57f00261af307da3f46590af7929f91a6",
+      "bytes": 292
+    },
+    {
+      "path": "assets/icons/shield-check.svg",
+      "sha256": "479f6b1399313adfe05259a8f7233d326ed1f5f1822feca3518690cf021d5e67",
+      "bytes": 432
+    },
+    {
+      "path": "assets/icons/triangle-alert.svg",
+      "sha256": "277ae10d322987f7fd32de740d0d13463fc2c21f7e5ad0e0dcaba14e80b46e67",
+      "bytes": 363
+    },
+    {
+      "path": "assets/icons/users.svg",
+      "sha256": "c45f97931f7c052f2785e437d8bdfa85c0a52864c208ab637b0da07ddca69e3a",
+      "bytes": 402
+    },
+    {
+      "path": "assets/icons/wallet.svg",
+      "sha256": "2e574494de16876862136cf229bdee70e0219d7945987dd29e56f0978570ea23",
+      "bytes": 404
+    }
+  ]
+}

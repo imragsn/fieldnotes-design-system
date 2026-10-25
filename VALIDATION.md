@@ -1,18 +1,21 @@
-# Validation — Fieldnotes v1.1.0
+# Fieldnotes 1.2.0 — Distribution validation
 
-Completed 25 October2026.
+Validated25 October2026,Asia/Jakarta.
 
-- Parsed JSON successfully; embedded token JSON equals tokens.json.
-- All internal navigation anchors resolve; IDs are unique.
-- All15 permitted foreground/background text pairings exceed4.5:1; calculations in contrast-report.json.
-- Headless Chrome rendered the documentation at1440px and390px. No document-level horizontal overflow (scrollWidth equals viewport width). Wide tables intentionally scroll inside their containers.
-- Visually inspected desktop opening and visual-specimen screenshots. Mobile rendering reviewed; table scrolling is deliberate.
-- HTML is static with no external runtime or asset dependencies.12 component contracts and12 slide patterns documented.
-- Storytelling guide embedded in HTML and available separately in Indonesian/English.
+## Completed
+- Complete Markdown retains all21originalh2sections;newstyle-specific chart/icon rules and completebilingualstorytelling included. No CSS,SVGassetXML or fontbase64in DESIGN-SYSTEM.md.
+- Exacttokens synchronized with HTML;version1.2.0;nativecanvas1600x900preserved. FieldnotesInstitutional/Expressive reportingdefaults preserved.
+- HTML rendered in Chrome at1440wide,390 and768;no pageoverflow,brokenanchors or scripterrors. Allthree1200x760previewboards pass clipping/footer-overlap checks.
+- Actualheadlinefont viaChromeplatformfontinspection:[{"family": "Manrope ExtraLight", "custom": true}]. Manrope andPlusJakarta use localfontassets;noOSinstallation.
+- 15iconassetsverified24x24viewBox,stroke1.75,roundcaps,roundjoins;SVGXMLparses. Licences/adaptationnotes included.
+- ThreeadditionalchartSVGs generated from declared illustrativeJSON;shares100%;waterfall100+25-15+10=120;trendnullstaysnull. Underlyingvalues and readableSVGtitle/desc included.
+- Fourapprovedtextpairs>=4.5:1;fourseriesmarks>=3:1 on systempaper. See DISTRIBUTION-CONTRAST.json;palefocususesinkoutline.
+- AI contextZIP has completewrittenrules,tokens,operatorguide,prompts andthreepreviews;no fontbinary or wholeSVGassetcollection. ImplementationZIP includes implementationassets/licences. ZIPintegrity andfilepresence checkedafterpackaging.
 
-Limitations: specimens are composition previews, not a full exported reporting deck. No PDF deck or Google Slides master was generated. Full assistive-technology testing, tagged-PDF testing and Slides/PPTX conversion testing have not been performed. Font/layout and chart checks must be repeated for each future report. Curated source study is not an exhaustive crawl of all linked sites.
-
-## v1.1 checks
-- Rendered new image/shape sections in headless Chrome at1440px and390px; no document-level overflow. Six SVG schematics and shape preview visually reviewed.
-- Font roles and I01–I07 image geometry are present in tokens and HTML; embedded JSON synchronized. Preferred Manrope font is not bundled or verified as installed; current preview can use fallback.
-- New rules do not introduce untested text color pairs. Fonts/real image crops still need checking in each actual report.
+## Limits
+- Visualboards are systemreferences,not completeclientdecks. NoPDF/Slides/PPTXmastergenerated. Nativeeditablechartconversion nottested.
+- Nofullscreen-reader,projection,tagged-PDF,cross-editor orphysicalprintcertification. Finaldeckfont,fit,crops,data,chartlabels andaccessibility must be checked perjob.
+- No assertion that any AI readstheentireURL/repo or perfectlyfollowsrules. Recallgate detects somepartialreads,not guaranteedunderstanding.
+- Originalsource rules preserved;newchart/iconconstraints anddistributionprecedence explicitlyoverride earliergenericrequirements.
+- Primary fonts may require fallback in otherauthoringtools;discloseit andrecheckwraps.
+- Examples are illustrative;icons do not prove status,safety,accessibility orapproval.

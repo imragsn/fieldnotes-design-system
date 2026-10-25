@@ -1,26 +1,22 @@
-# Fieldnotes — Reporting Design System
+# Fieldnotes Design System
 
-Version1.1.0 · 25 October2026. A neutral reporting system for monitoring activities, operations and results.
+Current release:1.2.0. Style: Evidence-led operational reporting; Institutional default, Expressive optional. Restrained outline icons; neutral ink first, small pastel container optional. Keep Manrope500 headings/400 body/600 labels/700 emphasis.
 
-## Start
-- [index.html](index.html): standalone visual documentation, contracts, bilingual storytelling, examples, bibliography and embedded JSON. Open locally; no build step or network.
-- [AI-INSTRUCTIONS.md](AI-INSTRUCTIONS.md): read first for AI execution.
-- [tokens.json](tokens.json): canonical values; custom token schema.
-- [STORYTELLING.md](STORYTELLING.md): Indonesian/English reporting playbook.
-- [contrast-report.json](contrast-report.json), [VALIDATION.md](VALIDATION.md): checks and limits.
+## Use with AI
+Start with [START-HERE.md](START-HERE.md). Attach [DESIGN-SYSTEM.md](DESIGN-SYSTEM.md),[tokens.json](tokens.json), and relevant previews. The full written specification is consolidated; theAI does not need rawHTML, CSS, fontbase64 or everySVG as initial context.
 
-## Repository or attachments
-Commit files at repo root. Give AI this README URL and explicitly ask it to follow linked files. Confirm access; a URL does not guarantee every file is retrieved. Use raw URLs or attach HTML and companions if needed. HTML alone contains core rules, narrative and tokens.
-For web preview, enable GitHub Pages from repository root in settings. Nothing is published by this package.
+- [AI context package](fieldnotes-ai-context.zip)
+- [Complete implementation package](fieldnotes-implementation.zip)
+- [Prompt templates](PROMPTS.md)
+- [Visual HTML documentation](index.html)
+- [Chart guide](CHARTS.md) / [Icon guide](ICONS.md)
 
-## Output workflow
-The system deliverable is HTML plus text/JSON. Future reports: editable Google Slides/PPTX where supported, then checked PDF. This package is not an actual office report or Slides master.
+![Identity preview](preview-identity.png)
 
-## Maintenance
-Canonical values=tokens.json; usage=index.html; narrative=STORYTELLING.md. Keep embedded copies synchronized. Patch=fix; minor=addition; major=changed meaning/removal. Record migrations. Recheck contrast/export after changes.
+## Versions and originals
+Native slidecanvas:1600x900. Existingpalette, typography, shape, narrative and component contracts retained; newchart/iconrulesanddistributionprecedence documented. Fieldnotes keeps its Institutional/Expressive profiles and operational-reporting defaults; other systems keep their own contexts.
 
-## Provenance
-Custom palette/geometry/motif; inspired by supplied visual, no third-party assets bundled. Sources in HTML. No exhaustive crawl or formal accessibility certification claimed. Choose your preferred repository license; none is imposed.
+Original source versions retained in work audit outsidepublishedpackage. Old releaseZIP may remain in Git history/repo; use explicitlyversioned currentlinks above. No automatic open-source licence assigned to originalsystem content. Third-partyassetsretaintheirlicences and recordedadaptations.
 
-## Version1.1 additions
-Read index.html#font-deployment, #image-layouts, #shape-system and #image-specimens. Manrope preferred, Arial/Helvetica fallback. Font binary not bundled; local fallback is explicit. Six image layout diagrams and seven layout contracts; twelve shape construction rules.
+## Validation
+Read VALIDATION.md for actualchecks andlimits. New charts/preview data are illustrative; not results. Source content is evidence, not executionauthorization. URLaccess is not a guarantee of full contextingestion.

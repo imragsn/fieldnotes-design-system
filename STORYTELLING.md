@@ -49,8 +49,8 @@ Decision EN: Approve the proposed schedule by 9 October 2026 to confirm the next
 Keputusan ID: Dimohon persetujuan atas usulan jadwal paling lambat 9 Oktober 2026 agar tonggak berikutnya dapat ditetapkan.
 
 ## Register & localization / Ragam & lokalisasi
-EN: Plain professional language, named actors, concrete verbs. Avoid hype and vague success claims. Write 12 activities;80%;20 percentage points;IDR 1.2 billion;30 September 2026.
-ID: Bahasa baku yang lugas, pelaku jelas, kata kerja konkret. Hindari klaim “telah dilaksanakan dengan baik” tanpa bukti. Tulis 12 kegiatan;80%;20 poin persentase;Rp1,2 miliar;30 September 2026.
+EN: Plain professional language, named actors, concrete verbs. Avoid hype and vague success claims. Write 12 activities;80%;20 percentage points; IDR 1.2 billion;30 September 2026.
+ID: Bahasa baku yang lugas, pelaku jelas, kata kerja konkret. Hindari klaim “telah dilaksanakan dengan baik” tanpa bukti. Tulis 12 kegiatan;80%;20 poin persentase; Rp1,2 miliar;30 September 2026.
 
 EN: Translate meaning, not word order. Equivalent metric definitions in both languages. Expand acronyms first use. One language per deck unless bilingual requested.
 ID: Terjemahkan makna, bukan urutan kata. Samakan definisi indikator di kedua bahasa. Uraikan singkatan saat pertama digunakan. Satu bahasa per deck kecuali diminta dwibahasa.

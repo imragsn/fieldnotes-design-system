@@ -1,0 +1,152 @@
+[
+  {
+    "id": "IC01",
+    "asset": "users",
+    "label": "People / stakeholders",
+    "grid": 24,
+    "stroke": 1.75,
+    "cap": "round",
+    "join": "round",
+    "source": "Derived from Lucide;root stroke presentation adapted;path geometry retained."
+  },
+  {
+    "id": "IC02",
+    "asset": "clock",
+    "label": "Time / period",
+    "grid": 24,
+    "stroke": 1.75,
+    "cap": "round",
+    "join": "round",
+    "source": "Derived from Lucide;root stroke presentation adapted;path geometry retained."
+  },
+  {
+    "id": "IC03",
+    "asset": "calendar-days",
+    "label": "Schedule",
+    "grid": 24,
+    "stroke": 1.75,
+    "cap": "round",
+    "join": "round",
+    "source": "Derived from Lucide;root stroke presentation adapted;path geometry retained."
+  },
+  {
+    "id": "IC04",
+    "asset": "map-pin",
+    "label": "Location / scope",
+    "grid": 24,
+    "stroke": 1.75,
+    "cap": "round",
+    "join": "round",
+    "source": "Derived from Lucide;root stroke presentation adapted;path geometry retained."
+  },
+  {
+    "id": "IC05",
+    "asset": "file-text",
+    "label": "Document / source",
+    "grid": 24,
+    "stroke": 1.75,
+    "cap": "round",
+    "join": "round",
+    "source": "Derived from Lucide;root stroke presentation adapted;path geometry retained."
+  },
+  {
+    "id": "IC06",
+    "asset": "wallet",
+    "label": "Budget / cost",
+    "grid": 24,
+    "stroke": 1.75,
+    "cap": "round",
+    "join": "round",
+    "source": "Derived from Lucide;root stroke presentation adapted;path geometry retained."
+  },
+  {
+    "id": "IC07",
+    "asset": "chart-column",
+    "label": "Analysis",
+    "grid": 24,
+    "stroke": 1.75,
+    "cap": "round",
+    "join": "round",
+    "source": "Derived from Lucide;root stroke presentation adapted;path geometry retained."
+  },
+  {
+    "id": "IC08",
+    "asset": "circle-check",
+    "label": "Verified completion",
+    "grid": 24,
+    "stroke": 1.75,
+    "cap": "round",
+    "join": "round",
+    "source": "Derived from Lucide;root stroke presentation adapted;path geometry retained."
+  },
+  {
+    "id": "IC09",
+    "asset": "triangle-alert",
+    "label": "Attention / issue",
+    "grid": 24,
+    "stroke": 1.75,
+    "cap": "round",
+    "join": "round",
+    "source": "Derived from Lucide;root stroke presentation adapted;path geometry retained."
+  },
+  {
+    "id": "IC10",
+    "asset": "info",
+    "label": "Information / caveat",
+    "grid": 24,
+    "stroke": 1.75,
+    "cap": "round",
+    "join": "round",
+    "source": "Derived from Lucide;root stroke presentation adapted;path geometry retained."
+  },
+  {
+    "id": "IC11",
+    "asset": "shield-check",
+    "label": "Assurance concept",
+    "grid": 24,
+    "stroke": 1.75,
+    "cap": "round",
+    "join": "round",
+    "source": "Derived from Lucide;root stroke presentation adapted;path geometry retained."
+  },
+  {
+    "id": "IC12",
+    "asset": "search",
+    "label": "Inspect / search",
+    "grid": 24,
+    "stroke": 1.75,
+    "cap": "round",
+    "join": "round",
+    "source": "Derived from Lucide;root stroke presentation adapted;path geometry retained."
+  },
+  {
+    "id": "IC13",
+    "asset": "message-circle",
+    "label": "Feedback / communication",
+    "grid": 24,
+    "stroke": 1.75,
+    "cap": "round",
+    "join": "round",
+    "source": "Derived from Lucide;root stroke presentation adapted;path geometry retained."
+  },
+  {
+    "id": "IC14",
+    "asset": "route",
+    "label": "Process / path",
+    "grid": 24,
+    "stroke": 1.75,
+    "cap": "round",
+    "join": "round",
+    "source": "Derived from Lucide;root stroke presentation adapted;path geometry retained."
+  },
+  {
+    "id": "IC15",
+    "asset": "arrow-left-right",
+    "label": "Comparison / exchange",
+    "grid": 24,
+    "stroke": 1.75,
+    "cap": "round",
+    "join": "round",
+    "source": "Derived from Lucide;root stroke presentation adapted;path geometry retained."
+  }
+]

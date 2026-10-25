@@ -1,0 +1,53 @@
+{
+  "notice": "Illustrative only;not real performance.",
+  "comparison": [
+    {
+      "category": "A",
+      "value": 40
+    },
+    {
+      "category": "B",
+      "value": 65
+    },
+    {
+      "category": "C",
+      "value": 80
+    }
+  ],
+  "trend": [
+    {
+      "period": "P1",
+      "actual": 28,
+      "target": 40
+    },
+    {
+      "period": "P2",
+      "actual": 42,
+      "target": 40
+    },
+    {
+      "period": "P3",
+      "actual": null,
+      "target": 40
+    },
+    {
+      "period": "P4",
+      "actual": 60,
+      "target": 40
+    }
+  ],
+  "shares": [
+    45,
+    30,
+    25
+  ],
+  "waterfall": {
+    "opening": 100,
+    "changes": [
+      25,
+      -15,
+      10
+    ],
+    "closing": 120
+  }
+}
